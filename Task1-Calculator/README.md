@@ -1,8 +1,19 @@
-# Calculator Project
+# Modern Calculator
 
-A modern calculator with a beautiful UI design featuring:
+A sleek and modern calculator with a beautiful UI design.
+
+## Live Demo
+[View Live Calculator](https://calculator-afreen.vercel.app/)
+
+## Features
 - Basic arithmetic operations
 - Percentage calculations
 - Clear and delete functions
-- Responsive design
-- Modern glass-morphism UI
+- Modern glass-morphism design
+- Responsive layout
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Deployed on Vercel
