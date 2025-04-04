@@ -1,4 +1,4 @@
-# TechMart Landing Page - CODSOFT Task 3
+# TechMart Landing Page - CODSOFT Task 
 
 A modern and responsive landing page for TechMart, featuring a sleek design with glassmorphism effects and interactive elements.
 
