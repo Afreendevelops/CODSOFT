@@ -2,6 +2,9 @@
 
 A modern and responsive landing page for TechMart, featuring a sleek design with glassmorphism effects and interactive elements.
 
+## Live Demo
+🚀 [View Live Site](https://codsoft-tawny.vercel.app/)
+
 ## Features
 - Modern UI/UX design with glassmorphism effects
 - Fully responsive layout
@@ -22,4 +25,6 @@ A modern and responsive landing page for TechMart, featuring a sleek design with
   - Media queries
   - Glassmorphism effects
 - Google Fonts (Poppins)
-- Responsive Design
+  
+
+## Project Structure
